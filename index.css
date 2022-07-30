@@ -36,3 +36,8 @@ main{
     padding-left: 40px;
     padding-right: 40px;
 }
+@media (min-width: 1044px) {
+    .main {
+      margin-top: 150px;
+    }
+}
